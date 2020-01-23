@@ -1,2 +1,2 @@
 # Badge(s) Description
-We want to apply for Reusable badges and Available badges. The artifact can be accessed by via .... Moreover, the artifact is well documented, which supports the developers to able the artifact easily in their future study.
+We want to apply for Reusable badges and Available badges. The artifact can be accessed by via .... Moreover, the artifact is well documented, which supports the developers to able the artifact easily in their future study. We also provide the website links of DNN bugs to support the developers in their future study. 
