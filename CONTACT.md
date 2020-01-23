@@ -1,4 +1,4 @@
-* Contact Lists
+*Contact Lists
 - Md Johirul Islam 
   - email: mislam@iastate.edu
   - github ids: [johirbuet](https://github.com/johirbuet)
@@ -15,4 +15,4 @@
   - email: hridesh@iastate.edu
   - github ids: [hridesh](https://github.com/hridesh)
   
-* Rangeet Pan is the corresponding author
+*Rangeet Pan is the corresponding author
