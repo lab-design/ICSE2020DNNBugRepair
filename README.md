@@ -8,12 +8,11 @@ The data can be found via ...
 ## Contact Lists
 See [Contract.md](./CONTACT.md)
 
-If you have any question, please contact the authors: [Md Johirul Islam] (https://github.com/johirbuet) and [Rangeet Pan](https://github.com/rangeetpan) and [Giang Nguyen](https://github.com/giangnm58) and [Hridesh Rajan](https://github.com/hridesh)
+If you have any question, please contact the authors: [Md Johirul Islam](mislam@iastate.edu) and [Rangeet Pan](rangeet@iastate.edu) and [Giang Nguyen](gnguyen@iastate.edu) and [Hridesh Rajan](hridesh@iastate.edu)
 
 
 ## Bug Fix Pattern Data
 The data can be found at 
-
 For more detail, please see [INSTALL.md](./INSTALL)
 
 ## License
