@@ -1,1 +1,2 @@
-We want to apply for Reusable badges and Available badges. The artifact can be accessed by via Github. Moreover, the artifact is well documented, which supports the developers to able the artifact easily in their future study.
+# Badge(s) Description
+We want to apply for Reusable badges and Available badges. The artifact can be accessed by via .... Moreover, the artifact is well documented, which supports the developers to able the artifact easily in their future study.
