@@ -8,7 +8,7 @@ The data can be found via ...
 ## Contact Lists
 See [Contract.md](./CONTACT.md)
 
-If you have any question, please contact the authors: [Md Johirul Islam](mislam@iastate.edu) and [Rangeet Pan](rangeet@iastate.edu) and [Giang Nguyen](gnguyen@iastate.edu) and [Hridesh Rajan](hridesh@iastate.edu)
+If you have any question, please contact the authors: [Md Johirul Islam] (mislam@iastate.edu) and [Rangeet Pan] (rangeet@iastate.edu) and [Giang Nguyen] (gnguyen@iastate.edu) and [Hridesh Rajan] (hridesh@iastate.edu)
 
 
 ## Bug Fix Pattern Data
