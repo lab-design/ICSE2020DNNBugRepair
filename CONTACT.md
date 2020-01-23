@@ -8,7 +8,7 @@
   - github ids: [rangeetpan](https://github.com/rangeetpan)
   
 - Giang Nguyen
-  - email: hridesh@iastate.edu
+  - email: gnguyen@iastate.edu
   - github ids: [giangnm58](https://github.com/giangnm58)
 
 - Hridesh Rajan
