@@ -1,7 +1,24 @@
 # Repairing Deep Neural Networks Fix Patterns and Challenges
-The artifact contains the bug fix patterns of deep learning bugs. From Stack Overflow and Github, we have studied 415 bug repairs and 555 bug repairs, respectively. To understand the challenge in fixing deep learning bugs of developers, we have focused our study on five deep learning libraries, which are Caffe, Keras, Tensorflow, Theano, and Torch. After the study, we have realized the difference between bug fix pattern of traditional software and deep learning software. Moreover, we also find out some frequent bug repairs of deep learning programs such as modifying network connectivity or repairing the mismatch data dimension.
+Significant interest in applying Deep Neural Network (DNN) has fueled the need to support engineering of software that uses DNNs.
+Repairing software that uses DNNs is one such unmistakable SE need where automated tools could be very helpful; however, we do
+not fully understand challenges to repairing and patterns that are utilized when manually repairing them. What challenges should
+automated repair tools address? What are the repair patterns whose automation could help developers? Which repair patterns should
+be assigned a higher priority for automation? This work presents a comprehensive study of bug fix patterns to address these questions.
+We have studied 415 repairs from Stack Overflow and 555 repairs from Github for five popular deep learning libraries Caffe, Keras,
+Tensorflow, Theano, and Torch to understand challenges in repairs and bug repair patterns. Our key findings reveal that DNN bug fix
+patterns are distinctive compared to traditional bug fix patterns; the most common bug fix patterns are fixing data dimension and
+neural network connectivity; DNN bug fixes have the potential to introduce adversarial vulnerabilities; DNN bug fixes frequently
+introduce new bugs; and DNN bug localization, reuse of trained model, and coping with frequent releases are major challenges faced
+by developers when fixing bugs. We also contribute a benchmark of 667 DNN (bug, repair) instances
 
-After label all the deep learning bugs, we have carefully store the results in the form of excel files. The data is well documented, which can support the developers' intern in studying, reproducing, or extending the results. The data concludes multiple excel files which are used to represent the important information such as the most frequent bug fix pattern or the different bug fix pattern among various libraries. For more detail about data description and data reproduction, please see INSTALL.md
+We have also analyzed these bug fixes to answer the following research questions:
+- What are the most common bug fix patterns?
+- Are the bug fix patterns different for different bug types?
+- Are the bug fix pattern different for different libraries?
+- Does fixing a DNN bug introduces a new bug?
+- What are the challenges in fixing DNN bugs?
+Our key findings are as follows: DNN bug fix patterns are distinctive compared to traditional bug fix patterns; the most common bug fix
+patterns are fixing data dimension and network connectivity; DNN bug fixes have the potential to introduce adversarial vulnerabilities; DNN bug fixes frequently introduce new bugs; and DNN bug localization, reuse of trained model, and coping with frequent releases are major challenges faced by developers when fixing bugs. We also contribute a benchmark of 667 DNN (bug, repair) instances.
 
 The data can be found at ...
 
