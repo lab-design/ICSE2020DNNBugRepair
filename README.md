@@ -7,9 +7,9 @@ The data can be found at ...
 For more detail about the data, please see [INSTALL.md](./INSTALL.md)
 
 ## Contact Lists
-See [Contact.md](./CONTACT.md)
-
 If you have any question, please contact the authors: [Md Johirul Islam] (mislam@iastate.edu) and [Rangeet Pan] (rangeet@iastate.edu) and [Giang Nguyen] (gnguyen@iastate.edu) and [Hridesh Rajan] (hridesh@iastate.edu)
+
+For more information, please see [Contact.md](./CONTACT.md)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE.md) file for details.
