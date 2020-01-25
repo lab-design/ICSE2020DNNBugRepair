@@ -4,7 +4,7 @@ The artifact contains the labeled bug fix patterns of deep learning bugs. From S
 ## Bug Fix Pattern Data
 The data can be found at ...
 
-For more detail about the data, please see [INSTALL.md](./INSTALL.md)
+For more detail about data description and data reproduction, please see [INSTALL.md](./INSTALL.md)
 
 ## Contact Lists
 If you have any question, please contact the authors: [Md Johirul Islam] (mislam@iastate.edu) and [Rangeet Pan] (rangeet@iastate.edu) and [Giang Nguyen] (gnguyen@iastate.edu) and [Hridesh Rajan] (hridesh@iastate.edu)
