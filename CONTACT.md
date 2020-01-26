@@ -15,4 +15,4 @@
   - email: hridesh@iastate.edu
   - github ids: [hridesh](https://github.com/hridesh)
   
-Rangeet Pan is the corresponding author
+All authors are corresponding authors.
