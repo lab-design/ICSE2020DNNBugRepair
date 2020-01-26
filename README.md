@@ -11,7 +11,7 @@ We have also analyzed these bug fixes to answer the following research questions
 Our key findings are as follows: DNN bug fix patterns are distinctive compared to traditional bug fix patterns; the most common bug fix
 patterns are fixing data dimension and network connectivity; DNN bug fixes have the potential to introduce adversarial vulnerabilities; DNN bug fixes frequently introduce new bugs; and DNN bug localization, reuse of trained model, and coping with frequent releases are major challenges faced by developers when fixing bugs. We also contribute a benchmark of 667 DNN (bug, repair) instances.
 
-The data can be found at ...
+The data can be found at https://github.com/lab-design/ICSE2020DNNBugRepair
 
 ## Contact Lists
 If you have any question, please contact the authors: [Md Johirul Islam] (mislam@iastate.edu) and [Rangeet Pan] (rangeet@iastate.edu) and [Giang Nguyen] (gnguyen@iastate.edu) and [Hridesh Rajan] (hridesh@iastate.edu)
