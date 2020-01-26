@@ -1,18 +1,18 @@
 # Contact Lists
 - Md Johirul Islam 
   - email: mislam@iastate.edu
-  - github ids: [johirbuet](https://github.com/johirbuet)
+  - github id: [johirbuet](https://github.com/johirbuet)
 
 - Rangeet Pan
   - email: rangeet@iastate.edu
-  - github ids: [rangeetpan](https://github.com/rangeetpan)
+  - github id: [rangeetpan](https://github.com/rangeetpan)
   
 - Giang Nguyen
   - email: gnguyen@iastate.edu
-  - github ids: [giangnm58](https://github.com/giangnm58)
+  - github id: [giangnm58](https://github.com/giangnm58)
 
 - Hridesh Rajan
   - email: hridesh@iastate.edu
-  - github ids: [hridesh](https://github.com/hridesh)
+  - github id: [hridesh](https://github.com/hridesh)
   
 All authors are corresponding authors.
